@@ -1,0 +1,15 @@
+{
+  "name": "blazormedia",
+  "version": "0.1.0",
+  "description": "",
+  "main": "content/BlazorMedia.js",
+  "scripts": {
+    "build": "tsc --build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/dom-mediacapture-record": "^1.0.7",
+    "typescript": "^4.1.2"
+  }
+}
